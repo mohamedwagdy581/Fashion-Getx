@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317519155217",
+    "project_id": "fashop-getx",
+    "storage_bucket": "fashop-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317519155217:android:6ec65ec587fed81e9f61b0",
+        "android_client_info": {
+          "package_name": "com.example.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317519155217-kf0aa3jqs0vs96fd1ca0s605s93j29j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashion",
+            "certificate_hash": "ce24337b18c3fc333ccf2739fd9a8ac4fcaa345b"
+          }
+        },
+        {
+          "client_id": "317519155217-dm6lmqhf36of3dpjl0fjjo8ms2ovgtmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriF7nHMPyFEDbtlJqD3HiAgHUl7yColQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317519155217-dm6lmqhf36of3dpjl0fjjo8ms2ovgtmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
